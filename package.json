@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@solidjs/web": "^2.0.0-experimental.0",
+    "lit-html": "^3.2.1"
+  },
+  "devDependencies": {
+    "vite": "^6.2.1"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
